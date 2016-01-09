@@ -1,0 +1,269 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\anjani\Documents\Reflect\PWM.uvproj
+Project File Date:  12/20/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(16): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(15): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(15): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=544 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(15): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=544 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(15): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=544 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(15): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=544 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(15): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=548 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(15): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=544 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(15): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=552 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(15): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=552 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(16): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(16): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=592 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=592 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=588 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=592 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=568 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=568 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=588 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(18): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+linking...
+Program Size: Code=588 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"PWM.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(7): error:  #20: identifier "PWMSEL2" is undefined
+PWM.c:    PWMSEL2=1;
+PWM.c:    ^
+PWM.c(20): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 1 error
+Target not created
+Build target 'Target 1'
+compiling PWM.c...
+PWM.c(19): warning:  #1-D: last line of file ends without a newline
+PWM.c:   }
+PWM.c:    ^
+PWM.c: PWM.c: 1 warning, 0 errors
+compiling PWM_DoubleEdge.c...
+PWM_DoubleEdge.c(14): error:  #109: expression must have (pointer-to-) function type
+PWM_DoubleEdge.c:    PWMPCR=(1<<2)|(1<<3)(1<<9)|(1<<10)|(1<<11)|(1<<12);  //PWM control register//Mainly to select Singly or Doubly edge PWM
+PWM_DoubleEdge.c:                  ^
+PWM_DoubleEdge.c(18): warning:  #1-D: last line of file ends without a newline
+PWM_DoubleEdge.c:   }
+PWM_DoubleEdge.c:    ^
+PWM_DoubleEdge.c: PWM_DoubleEdge.c: 1 warning, 1 error
+Target not created

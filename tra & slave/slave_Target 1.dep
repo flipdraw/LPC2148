@@ -1,0 +1,5 @@
+Dependencies for Project 'slave', Target 'Target 1': (DO NOT MODIFY !)
+F (.\Startup.s)(0x4BB23286)(--cpu ARM7TDMI --pd "__EVAL SETA 1" -g --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" --list "Startup.lst" --xref -o "Startup.o" --depend "Startup.d")
+F (.\slave.c)(0x545CE294)(-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o "slave.o" --omf_browse "slave.crf" --depend "slave.d")
+I (lcd.h)(0x545B0F0B)
+I (C:\Keil\ARM\INC\Philips\lpc21xx.h)(0x4BB1C2C8)

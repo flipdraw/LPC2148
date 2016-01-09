@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o "int_software_interrupt.o" --omf_browse "int_software_interrupt.crf" --depend "int_software_interrupt.d" "Int_Software_Interrupt.c"

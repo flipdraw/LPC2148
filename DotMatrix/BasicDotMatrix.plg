@@ -1,0 +1,1053 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\anjani\Documents\Reflect\BasicDotMatrix.uvproj
+Project File Date:  12/16/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(83): error:  #109: expression must have (pointer-to-) function type
+BasicDotMatrix.c:       IOCLR0(1<<15);
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(91): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(83): error:  #109: expression must have (pointer-to-) function type
+BasicDotMatrix.c:       IOCLR0(1<<15);
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(89): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(89): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=700 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(89): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=708 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(89): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=708 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(84): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=668 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(90): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=704 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(90): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=720 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(85): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=668 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(90): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=728 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(90): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=728 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(90): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=728 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(90): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(83): error:  #6: comment unclosed at end of file
+BasicDotMatrix.c:   /*  IOSET0=1<<14;
+BasicDotMatrix.c:   ^
+BasicDotMatrix.c(90): error: At end of source:  #67: expected a "}"
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c(90): error: At end of source:  #67: expected a "}"
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 3 errors
+Target not created
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(93): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(86): error:  #6: comment unclosed at end of file
+BasicDotMatrix.c:   /*  IOSET0=1<<14;
+BasicDotMatrix.c:   ^
+BasicDotMatrix.c(93): error: At end of source:  #67: expected a "}"
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c(93): error: At end of source:  #67: expected a "}"
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 3 errors
+Target not created
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(90): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=668 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(90): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=728 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(95): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c: BasicDotMatrix.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=780 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(92): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=748 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(92): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=748 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(92): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=748 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(92): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=748 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(94): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=748 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(92): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=748 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(14): error:  #65: expected a ";"
+BasicDotMatrix.c:       a[1]=(1<<0)|(1<<3)//|(1<<6)|(0<<7)|(1<<8)|(1<<9)|(1<<10)|(1<<11)|(1<<12);
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(92): warning:  #12-D: parsing restarts here after previous syntax error
+BasicDotMatrix.c:        }
+BasicDotMatrix.c:        ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "i" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                   ^
+BasicDotMatrix.c(93): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(93): error:  #169: expected a declaration
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:      ^
+BasicDotMatrix.c: BasicDotMatrix.c: 7 warnings, 2 errors
+Target not created
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(79): error:  #29: expected an expression
+BasicDotMatrix.c:       IOSET0=1<<14|;
+BasicDotMatrix.c:                    ^
+BasicDotMatrix.c(93): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(93): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=732 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(93): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=724 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(93): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=724 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(97): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=756 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(97): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=756 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(97): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=764 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(97): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=756 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(96): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=716 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(96): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=724 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(92): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #550-D: variable "a" was set but never used
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 5 warnings, 0 errors
+linking...
+Program Size: Code=724 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 5 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(96): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=756 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(96): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=748 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(96): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "j" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:             ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 4 warnings, 0 errors
+linking...
+Program Size: Code=748 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 4 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(97): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=1076 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(97): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=976 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(97): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=976 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(99): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=972 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(99): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=972 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(99): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=980 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(99): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "k" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:                 ^
+BasicDotMatrix.c: BasicDotMatrix.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=972 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(102): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c: BasicDotMatrix.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=992 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(102): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c: BasicDotMatrix.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=992 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(102): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c: BasicDotMatrix.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=992 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(102): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c: BasicDotMatrix.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=992 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling BasicDotMatrix.c...
+BasicDotMatrix.c(102): warning:  #1-D: last line of file ends without a newline
+BasicDotMatrix.c:      }
+BasicDotMatrix.c:       ^
+BasicDotMatrix.c(9): warning:  #177-D: variable "m" was declared but never referenced
+BasicDotMatrix.c:   int a[35],j,m,k,i;
+BasicDotMatrix.c:               ^
+BasicDotMatrix.c: BasicDotMatrix.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=992 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"BasicDotMatrix.axf" - 0 Error(s), 2 Warning(s).

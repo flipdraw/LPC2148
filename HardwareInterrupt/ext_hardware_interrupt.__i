@@ -1,0 +1,1 @@
+-c --cpu ARM7TDMI -D__EVAL -g -O0 --apcs=interwork -I "C:\Keil\ARM\INC" -I "C:\Keil\ARM\INC\Philips" -o "ext_hardware_interrupt.o" --omf_browse "ext_hardware_interrupt.crf" --depend "ext_hardware_interrupt.d" "Ext_Hardware_Interrupt.c"

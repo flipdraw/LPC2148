@@ -1,0 +1,510 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\anjani\Documents\Reflect\uart.uvproj
+Project File Date:  12/22/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=576 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(19): error:  #20: identifier "abcd" is undefined
+uart.c:         U0THR=abcd;             //Data to transmit
+uart.c:               ^
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 1 error
+Target not created
+Build target 'Target 1'
+compiling uart.c...
+uart.c(19): warning:  #2548-D: multicharacter character literal (potential portability problem)
+uart.c:         U0THR='abcd';           //Data to transmit
+uart.c:               ^
+uart.c(19): warning:  #69-D: integer conversion resulted in truncation
+uart.c:         U0THR='abcd';           //Data to transmit
+uart.c:               ^
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=580 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=580 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(19): warning:  #69-D: integer conversion resulted in truncation
+uart.c:         U0THR=0x136689;         //Data to transmit
+uart.c:               ^
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=580 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(19): warning:  #69-D: integer conversion resulted in truncation
+uart.c:         U0THR=0x1366;           //Data to transmit
+uart.c:               ^
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=580 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=580 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=580 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=580 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=576 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=584 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=576 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=576 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=576 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=576 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=564 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=568 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(24): warning:  #951-D: return type of function "main" must be "int"
+uart.c:   void main()
+uart.c:        ^
+uart.c(37): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 2 warnings, 0 errors
+linking...
+Program Size: Code=568 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 2 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=576 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(24): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=572 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=584 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=584 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=584 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=584 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(19): warning:  #2548-D: multicharacter character literal (potential portability problem)
+uart.c:         U0THR='21';             //Data to transmit
+uart.c:               ^
+uart.c(19): warning:  #69-D: integer conversion resulted in truncation
+uart.c:         U0THR='21';             //Data to transmit
+uart.c:               ^
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 3 warnings, 0 errors
+linking...
+Program Size: Code=584 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 3 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(23): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=584 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(33): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=764 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(34): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=760 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(35): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=776 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(34): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=860 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=860 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(33): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=868 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(17): error:  #26: too many characters in character constant
+uart.c:         U0THR='raghav';         //Data to transmit
+uart.c:               ^
+uart.c(33): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 1 error
+Target not created
+Build target 'Target 1'
+compiling uart.c...
+uart.c(33): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=868 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(33): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=872 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(33): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=872 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(33): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=864 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(33): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=872 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(33): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=864 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).
+Build target 'Target 1'
+compiling uart.c...
+uart.c(34): warning:  #1-D: last line of file ends without a newline
+uart.c:         
+uart.c:         ^
+uart.c: uart.c: 1 warning, 0 errors
+linking...
+Program Size: Code=872 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"uart.axf" - 0 Error(s), 1 Warning(s).

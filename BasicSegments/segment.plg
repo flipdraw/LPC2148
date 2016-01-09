@@ -1,0 +1,176 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+C:\Users\anjani\Documents\Reflect\segment.uvproj
+Project File Date:  12/15/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=576 RO-data=16 RW-data=0 ZI-data=1256  
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+linking...
+Program Size: Code=576 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=792 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=980 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=980 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=980 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+seg.c(19): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  IOSET0=(1<<0)|(1<<2)|(1<<3)|(1<<4)(1<<5)|(1<<6);                                                           delay();                     IOCLR0=~(1<<1);                 
+seg.c:                                              ^
+seg.c: seg.c: 0 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling seg.c...
+seg.c(19): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  IOSET0=(1<<0)|(1<<2)|(1<<3)|(1<<4)(1<<5)|(1<<6);                                                           delay();                     IOCLR0=(1<<0)|(1<<2)|(1<<3)|(1<<4)(1<<5)|(1<<6);                        
+seg.c:                                              ^
+seg.c(19): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  IOSET0=(1<<0)|(1<<2)|(1<<3)|(1<<4)(1<<5)|(1<<6);                                                           delay();                     IOCLR0=(1<<0)|(1<<2)|(1<<3)|(1<<4)(1<<5)|(1<<6);                        
+seg.c:                                                                                                                                                                                      ^
+seg.c: seg.c: 0 warnings, 2 errors
+Target not created
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=980 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=716 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=764 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+seg.c(16): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  a[2]IOSET0=(1<<0)|(1<<1)|(1<<3)|(1<<4)|(1<<6);    delay();       IOCLR0=(1<<0)|(1<<1)|(1<<3)|(1<<4)|(1<<6);
+seg.c:                  ^
+seg.c(23): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  a[9]IOSET0=(1<<0)|(1<<1)|(1<<2)|(1<<3)|(1<<5)|(1<<6);                                                   delay();                 IOCLR0=(1<<0)|(1<<1)|(1<<2)|(1<<3)|(1<<5)|(1<<6);              
+seg.c:                  ^
+seg.c(8): warning:  #177-D: variable "i" was declared but never referenced
+seg.c:   {         int i,j,k,a[10];
+seg.c:                 ^
+seg.c(8): warning:  #177-D: variable "j" was declared but never referenced
+seg.c:   {         int i,j,k,a[10];
+seg.c:                   ^
+seg.c(8): warning:  #177-D: variable "k" was declared but never referenced
+seg.c:   {         int i,j,k,a[10];
+seg.c:                     ^
+seg.c: seg.c: 3 warnings, 2 errors
+Target not created
+Build target 'Target 1'
+compiling seg.c...
+seg.c(16): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  a[2]IOSET0=(1<<0)|(1<<1)|(1<<3)|(1<<4)|(1<<6);    delay();       IOCLR0=(1<<0)|(1<<1)|(1<<3)|(1<<4)|(1<<6);
+seg.c:                  ^
+seg.c(23): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  a[9]IOSET0=(1<<0)|(1<<1)|(1<<2)|(1<<3)|(1<<5)|(1<<6);                                                   delay();                 IOCLR0=(1<<0)|(1<<1)|(1<<2)|(1<<3)|(1<<5)|(1<<6);              
+seg.c:                  ^
+seg.c(24): error:  #20: identifier "b" is undefined
+seg.c:                  b[0]=IOSET0=(1<<7)|(1<<8)|(1<<9)|(1<<10)|(1<<11)|(1<<12);
+seg.c:                  ^
+seg.c(8): warning:  #177-D: variable "k" was declared but never referenced
+seg.c:   {         int i,j,k,a[10];
+seg.c:                     ^
+seg.c: seg.c: 1 warning, 3 errors
+Target not created
+Build target 'Target 1'
+compiling seg.c...
+seg.c(16): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  a[2]IOSET0=(1<<0)|(1<<1)|(1<<3)|(1<<4)|(1<<6);    delay();       IOCLR0=(1<<0)|(1<<1)|(1<<3)|(1<<4)|(1<<6);
+seg.c:                  ^
+seg.c(23): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  a[9]IOSET0=(1<<0)|(1<<1)|(1<<2)|(1<<3)|(1<<5)|(1<<6);                                                   delay();                 IOCLR0=(1<<0)|(1<<1)|(1<<2)|(1<<3)|(1<<5)|(1<<6);              
+seg.c:                  ^
+seg.c(26): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  b[2]IOSET0=(1<<7)|(1<<8)|(1<<10)|(1<<11)|(1<<13);         delay();       IOCLR0=(1<<7)|(1<<8)|(1<<10)|(1<<11)|(1<<13);
+seg.c:                  ^
+seg.c(33): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  b[9]IOSET0=(1<<13)|(1<<8)|(1<<9)|(1<<10)|(1<<12)|(1<<13);                                                       delay();                 IOCLR0=(1<<7)|(1<<8)|(1<<9)|(1<<10)|(1<<12)|(1<<13);                   
+seg.c:                  ^
+seg.c: seg.c: 0 warnings, 4 errors
+Target not created
+Build target 'Target 1'
+compiling seg.c...
+seg.c(16): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  a[2]IOSET0=(1<<0)|(1<<1)|(1<<3)|(1<<4)|(1<<6);    delay();       IOCLR0=(1<<0)|(1<<1)|(1<<3)|(1<<4)|(1<<6);
+seg.c:                  ^
+seg.c(26): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  b[2]IOSET0=(1<<7)|(1<<8)|(1<<10)|(1<<11)|(1<<13);         delay();       IOCLR0=(1<<7)|(1<<8)|(1<<10)|(1<<11)|(1<<13);
+seg.c:                  ^
+seg.c: seg.c: 0 warnings, 2 errors
+Target not created
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=1180 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+seg.c(20): error:  #109: expression must have (pointer-to-) function type
+seg.c:                  a[6](1<<0)|(1<<2)|(1<<3)|(1<<4)|(1<<5)|(1<<6);                                                    
+seg.c:                  ^
+seg.c: seg.c: 0 warnings, 1 error
+Target not created
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=824 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=824 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=824 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Target 1'
+compiling seg.c...
+linking...
+Program Size: Code=824 RO-data=16 RW-data=0 ZI-data=1256  
+FromELF: creating hex file...
+"segment.axf" - 0 Error(s), 0 Warning(s).
